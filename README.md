@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Velith46
-- 👀 I’m interested in becoming a web devloper
-- 🌱 I’m currently learning CSS, JavaScript, Boootstrap, HTML
+- 👋 Hi, I’m Brandon!
+- 👀 I’m interested in becoming a Front End Web Developer
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
